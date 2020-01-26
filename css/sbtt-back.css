@@ -1,0 +1,47 @@
+/* 
+    Document   : Scroll To Top
+    Author     : Sambid
+    Description:
+    Scroll Back To Top
+*/
+
+
+#sbttwrap{
+	 position: relative;
+	 float: left;
+	 width: 80%;
+	 background-color: #E8DCC3;
+	 padding: 20px;
+	 margin-top:25px;
+	
+ }
+ 
+
+ #sbttform > label
+ {
+	 padding: 12px;
+	 font-size: 16px;
+	 display: block;
+	 font-weight:bold;
+	 
+ }
+ 
+ 
+ 
+#sbttwrap  input[type='file']
+{
+	padding: 12px;
+	border:solid 1px #424141;
+	width: 500px;
+}
+
+#error{
+    color: red;
+	font-size: 16px;
+}
+
+#success
+{
+	color:green;
+	font-size: 16px;
+}

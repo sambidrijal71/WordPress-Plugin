@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document Simple Scroll To Top Scripts */
+
+.sbttBacktotop
+{
+	position:fixed;
+	bottom:12px;
+	right:12px;
+	cursor:pointer;
+	display:none;
+}
